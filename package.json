@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-test",
+  "version": "1.0.0",
+  "description": "Projeto npm para utilizar o json-server como fake api e estudar http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

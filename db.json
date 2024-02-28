@@ -1,0 +1,15 @@
+{
+  "pessoas": [
+    { "id": "1", "nome": "Renan Anibolete", "trilha": "Mobile" },
+    { "id": "2", "nome": "Davi Coelho", "trilha": "Backend Cloud" },
+    { "id": "3", "nome": "Danilo Soares", "trilha": "Mainframe" },
+    { "id": "4", "nome": "Guilherme Almeida", "trilha": "Frontend" },
+    { "id": "5", "nome": "Lucas Augusto", "trilha": "Backend Cloud" }
+  ],
+  "plr": [
+    { "id": "1", "item": "Aulas de estrutura de dados com o teacher Bayerl" },
+    { "id": "2", "item": "All Star Plataforma Cano Alto" },
+    { "id": "3", "item": "Jogo de panelas tramontina" },
+    { "id": "4", "item": "Passagem pra Salvador" }
+  ]
+}
