@@ -8,7 +8,6 @@ O json-server vai ajudar já a entender algumas coisitas:
 - Como a interação entre Front e Back afeta as informações presentes no banco de dados.
 - Como um banco """NoSQL""" baseado em documentos tá cagando e andando pra forma dos dados armazenados.
 - Posso tentar explicar que veerbos HTTP apesar de darem um norte, não definem o que o endpoint vai fazer, apenas servem como um direcionador para o Back identificar o que aquela request naquele endereço quer fazer.
-- Como eu sou uma pessoa incrível e todas as minhas qualidades.
 - E muito mais!!!
 
 ### Mas que porra é JSON-SERVER garoto? 🤔
