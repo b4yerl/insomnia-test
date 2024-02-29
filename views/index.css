@@ -57,3 +57,16 @@ li {
 .delete:hover {
   cursor: pointer;
 }
+
+footer {
+  background-color: teal;
+  height: fit-content;
+  text-align: center;
+  padding: 4px;
+}
+
+footer p {
+  color: white;
+  font-size: 12px;
+  margin: 0 auto;
+}
